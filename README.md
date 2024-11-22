@@ -1,7 +1,15 @@
 # EmployeesApp
- A simple aplication to manage employees 
- Note: the RFC has to have the following format:
-	4 uppercase letters (ABCD)
-	6 digits (123456)
-	3 alphanumeric characters (XYZ)
-Example: ABCD123456XYZ
+
+A simple application to manage employees.
+
+## Note
+
+The **RFC** must follow the specified format:
+
+- **4 uppercase letters** (e.g., `ABCD`)
+- **6 digits** (e.g., `123456`)
+- **3 alphanumeric characters** (e.g., `XYZ`)
+
+### Example
+
+`ABCD123456XYZ`
